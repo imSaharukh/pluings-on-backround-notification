@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "415457343781",
+    "firebase_url": "https://wolfgamer-pubg.firebaseio.com",
+    "project_id": "wolfgamer-pubg",
+    "storage_bucket": "wolfgamer-pubg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415457343781:android:545914152877af2985c2cc",
+        "android_client_info": {
+          "package_name": "com.example.bg_dart_code_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415457343781-tqmhkhmn3ngi2loab0kj183h6cln3538.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqg3f5aDC5ltUre8SsN2SlM38YSMdC7kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415457343781-tqmhkhmn3ngi2loab0kj183h6cln3538.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415457343781:android:c9ee222194c07cc085c2cc",
+        "android_client_info": {
+          "package_name": "com.wolfgamer.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415457343781-tqmhkhmn3ngi2loab0kj183h6cln3538.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqg3f5aDC5ltUre8SsN2SlM38YSMdC7kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415457343781-tqmhkhmn3ngi2loab0kj183h6cln3538.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415457343781:android:375aa075fe288c2185c2cc",
+        "android_client_info": {
+          "package_name": "com.wolfgamer.bypass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415457343781-tqmhkhmn3ngi2loab0kj183h6cln3538.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqg3f5aDC5ltUre8SsN2SlM38YSMdC7kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415457343781-tqmhkhmn3ngi2loab0kj183h6cln3538.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
